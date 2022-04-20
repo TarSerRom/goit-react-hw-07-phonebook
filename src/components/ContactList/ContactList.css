@@ -1,0 +1,25 @@
+.button {
+    color: white;
+  background-color: blue;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87;
+  text-align: center;
+  letter-spacing: 0.06em;
+  border-radius: 4px;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.list {
+    list-style-type: none;
+}
+.item {
+    font-weight: 500;
+    display: flex;
+  }
+  .text {
+    margin-right: 50px;
+    margin-left: 50px;
+  }

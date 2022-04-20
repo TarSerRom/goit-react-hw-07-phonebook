@@ -1,0 +1,11 @@
+.label {
+    font-weight: 500;
+    margin-right: 20px;
+  }
+  .input {
+    margin-left: 10px;
+  }
+  .form{
+      display: flex;
+      flex-direction: column;
+  }
